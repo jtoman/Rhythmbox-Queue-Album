@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=Rhythmbox-Queue-Album
+IAge=2
+Name=Queue Album
+Description=Allows you to queue the current selected album
+Authors=John Toman <jtoman@umd.edu>
+Copyright=Copyright © 2012 John Toman
+Website=http://github.com/javonharper/Rhythmbox-Random-Album-Player
