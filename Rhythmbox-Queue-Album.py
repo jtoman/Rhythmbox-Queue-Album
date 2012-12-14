@@ -23,11 +23,11 @@ from gi.repository import Gtk
 
 queue_album_menu_item = '''
   <ui>
-    <menubar name="MenuBar">
-      <menu name="ControlMenu" action="Control">
-        <menuitem name="QueueAlbumItem" action="QueueAlbum"/>
-      </menu>
-    </menubar>
+     <popup name="BrowserSourceViewPopup">
+       <placeholder name="PluginPlaceholder">
+         <menuitem name="QueueAlbumItem" action="QueueAlbum"/>
+       </placeholder>
+     </popup>
   </ui>
 '''
 
