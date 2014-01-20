@@ -1,5 +1,5 @@
 '''
-Plugin for Rhythmbox that random plays songs sorted by album, track-number randomly
+Plugin for Rhythmbox that queues an entire album with one key-press
 Copyright (C) 2012  John Toman <jtoman@umd.edu>
 
 This program is free software; you can redistribute it and/or
